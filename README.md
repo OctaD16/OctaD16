@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Spring and SpringBoot**
 
+- 💬 Ask me about **Java, html, css, sql**
+
 - 📫 How to reach me **www.linkedin.com/in/ octadiaz16**
 
 <h3 align="left">Connect with me:</h3>
