@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm OctaD16</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Spring and SpringBoot**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **Java, html, css, sql**
 
