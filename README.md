@@ -30,8 +30,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Octavio&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Octavio&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OctaD16&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OctaD16&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Octavio&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
