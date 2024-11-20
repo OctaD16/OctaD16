@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is OctaD16
 ====================================================================================================================================
-🔭 I’m currently studying at Manuel Belgrano IES9008 <br>🌱 I’m currently learning Spring Security and Docker<br>💬 Ask me about Java, SQL, SpringBoot
+🔭 I’m currently studying at Manuel Belgrano IES9008 <br>🌱 I’m currently learning Kotlin <br>💬 Ask me about Java, SQL, SpringBoot
 
 
 ## 🌐 Socials:
